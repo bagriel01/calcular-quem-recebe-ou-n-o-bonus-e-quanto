@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.exe
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.deps.json
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.runtimeconfig.json
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.dll
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\bin\Debug\netcoreapp3.1\exercicio 02.pdb
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.AssemblyInfo.cs
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.dll
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.pdb
+C:\Users\gabri\source\repos\calcular quem recebe ou não bonus e quanto\exercicio 02\obj\Debug\netcoreapp3.1\exercicio 02.genruntimeconfig.cache
